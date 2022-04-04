@@ -12,12 +12,6 @@ Design and development of an autonomous vehicle by integrating machine technolog
 
 To see some photos of the product it self and the video of the result [click here](https://github.com/nicozapatacruz/university-projects/tree/main/STAFF/photos)
 
-## Contributing
+## Arduino Code
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+To see the code used in Arduino for this project [click here](https://github.com/nicozapatacruz/university-projects/blob/main/STAFF/final_code.ino)
