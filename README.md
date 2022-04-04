@@ -10,7 +10,7 @@ Design and development of an autonomous vehicle by integrating machine technolog
 
 ## Photos and video
 
-To see some photos of the product it self and the video of the result [click here ](https://pip.pypa.io/en/stable/)
+To see some photos of the product it self and the video of the result [click here](https://github.com/nicozapatacruz/university-projects/tree/main/STAFF/photos)
 
 ## Contributing
 
