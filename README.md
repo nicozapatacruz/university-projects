@@ -1,30 +1,16 @@
 # STAF
 
-STAF: Servicio de Trazado Automatico de Figuras (Service of Automatic Figure Sketching).
 STAF is the result of a project form the 7th semester of my bachelor degree in Product Design Engineering
+
+The name it's the acronym of the words Servicio de Trazado Automático de Figuras (Service of Automatic Figure Sketching).
 
 ## Goal of the project
 
 Design and development of an autonomous vehicle by integrating machine technologies and electronics, also by multidisciplinary work.
 
-```bash
-pip install foobar
-```
+## Photos and video
 
-## Usage
-
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
+To see some photos of the product it self and the video of the result [click here ](https://pip.pypa.io/en/stable/)
 
 ## Contributing
 
