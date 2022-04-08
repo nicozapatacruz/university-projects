@@ -12,4 +12,4 @@ STAF is the result of a project form the 7th semester of my bachelor degree in P
 
 It's a painting machine programmed in Arduino.
 
-It's purpose was to help the workers that paint the signs in the roads, making the border lines of the sign they need to paint, so they just have to fill those lines.
+The purpose of STAF was to help the workers that paint the signs in the roads, making the border lines of the sign they need to paint, so they just have to fill those lines.
