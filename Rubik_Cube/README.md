@@ -8,4 +8,4 @@ Developing a Rubik Cube in 2D in BlueJ
 
 ## BlueJ
 
-To see the code used in BlueJ for this project [click here](https://github.com/nicozapatacruz/university-projects/blob/main/STAFF/final_code.ino)
+To see the code used in BlueJ for this project [click here](https://github.com/nicozapatacruz/university-projects/tree/main/Rubik_Cube/Final_Project)
