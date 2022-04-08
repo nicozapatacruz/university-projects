@@ -1,6 +1,6 @@
 # University Projects
 
-Here are some projects of coding made during my time in time in the university in 1 semester of Computer Science and the Product Design Engineering Bachelor Degree.
+Here are some projects of coding made during my time in time in the university in 1 semester of Computer Science and the Product Design Engineering Bachelor's Degree.
 
 ## Rubik Cube
 
